@@ -31,7 +31,6 @@
 - Works with capsolver and free proxies
 - Saves the logins and cookies [email:user:pass:cookie]
 
-
 ---
 
 ### 🚀 Milestones
@@ -45,4 +44,3 @@
 - I am not responsible for anything that may happen, such as, API Blocking, Account Termination, etc.
 
 ---
-
